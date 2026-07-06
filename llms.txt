@@ -1,0 +1,51 @@
+# Geotecnia1 — Peñalolén
+
+> Geotechnical engineering services in Peñalolén, Chile.
+
+## Services
+- [Aislacion Sismica](https://penalolen.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://penalolen.sondajespt.com/anclajes/)
+- [Calicatas](https://penalolen.sondajespt.com/calicatas/)
+- [Cbr Vial](https://penalolen.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://penalolen.sondajespt.com/cimentaciones/)
+- [Columnas Grava](https://penalolen.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://penalolen.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://penalolen.sondajespt.com/ensayo-cpt/)
+- [Ensayos Proctor](https://penalolen.sondajespt.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://penalolen.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://penalolen.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://penalolen.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://penalolen.sondajespt.com/exploracion/)
+- [Geotecnia Vial](https://penalolen.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://penalolen.sondajespt.com/granulometria/)
+- [Inyecciones](https://penalolen.sondajespt.com/inyecciones/)
+- [Laboratorio In Situ](https://penalolen.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://penalolen.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://penalolen.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://penalolen.sondajespt.com/limites-atterberg/)
+- [Losas Fundacion](https://penalolen.sondajespt.com/losas-fundacion/)
+- [Masw](https://penalolen.sondajespt.com/masw/)
+- [Mejoramiento](https://penalolen.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://penalolen.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://penalolen.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://penalolen.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://penalolen.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://penalolen.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad In Situ](https://penalolen.sondajespt.com/permeabilidad-in-situ/)
+- [Pilotes](https://penalolen.sondajespt.com/pilotes/)
+- [Refraccion Sismica](https://penalolen.sondajespt.com/refraccion-sismica/)
+- [Resistividad](https://penalolen.sondajespt.com/resistividad/)
+- [Sismica](https://penalolen.sondajespt.com/sismica/)
+- [Sondajes Spt](https://penalolen.sondajespt.com/sondajes-spt/)
+- [Taludes](https://penalolen.sondajespt.com/taludes/)
+- [Triaxial](https://penalolen.sondajespt.com/triaxial/)
+- [Tuneles Suelo Blando](https://penalolen.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://penalolen.sondajespt.com/vibrocompactacion/)
+- [Zapatas](https://penalolen.sondajespt.com/zapatas/)
+
+## Contact
+- Website: https://penalolen.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Peñalolén, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
